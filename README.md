@@ -30,7 +30,6 @@ I'm a **Full Stack Engineer** with **7.8+ years** of experience crafting high-pe
 
 - 🚀 Currently building cutting-edge products with **React**, **Next.js**, and **TypeScript**
 - 🤖 Passionate about **AI/ML integrations** — working with **Claude API**, **OpenAI API**, and **LLM fine-tuning**
-- 🎥 Content creator on **YouTube**, **Medium**, and **Instagram** — sharing tech insights and dev tips
 - ☁️ Cloud-native thinker — fluent in **AWS**, **GCP**, **Azure**, and **Firebase**
 - 🌍 Believer in clean code, pixel-perfect design, and shipping fast without breaking things
 
